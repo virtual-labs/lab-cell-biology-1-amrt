@@ -15,56 +15,56 @@
             "name": "Isolation of Chloroplast",
             "short-name": "isolation-of-chloroplast",
             "repo": "https://github.com/virtual-labs/exp-isolation-of-chloroplast-au",
-            "tag": "v1.0.0",
+            "tag": "V1.0.0",
             "deploy": true
         },
         {
             "name": "Light Microscope",
             "short-name": "light-microscope",
             "repo": "https://github.com/virtual-labs/exp-light-microscope-au",
-            "tag": "v1.0.0",
+            "tag": "V1.0.0",
             "deploy": true
         },
         {
             "name": "Cell Organization and Sub Cellular Structure Studies",
             "short-name": "cell-organization",
             "repo": "https://github.com/virtual-labs/exp-cell-organization-au",
-            "tag": "v1.0.0",
+            "tag": "V1.0.0",
             "deploy": true
         },
         {
             "name": "Isolation of Mitochondria",
             "short-name": "isolation-of-mitochondria",
             "repo": "https://github.com/virtual-labs/exp-isolation-of-mitochondria-au",
-            "tag": "v1.0.0",
+            "tag": "V1.0.0",
             "deploy": true
         },
         {
             "name": "Transfection",
             "short-name": "transfection",
             "repo": "https://github.com/virtual-labs/exp-transfection-au",
-            "tag": "v1.0.0",
+            "tag": "V1.0.0",
             "deploy": true
         },
         {
             "name": "Basics of Plant Tissue Culture",
             "short-name": "plant-tissue-culture",
             "repo": "https://github.com/virtual-labs/exp-plant-tissue-culture-au",
-            "tag": "v1.0.0",
+            "tag": "V1.0.0",
             "deploy": true
         },
         {
             "name": "Glucose Uptake Assay",
             "short-name": "glucose-uptake-assay",
             "repo": "https://github.com/virtual-labs/exp-glucose-uptake-assay-au",
-            "tag": "v1.0.0",
+            "tag": "V1.0.0",
             "deploy": true
         },
         {
             "name": "Isolation of Endoplasmic Reticulum",
             "short-name": "isolation-of-endoplasmic-reticulum",
             "repo": "https://github.com/virtual-labs/exp-isolation-of-endoplasmic-reticulum-au",
-            "tag": "v1.0.0",
+            "tag": "V1.0.0",
             "deploy": true
         }
     ],
